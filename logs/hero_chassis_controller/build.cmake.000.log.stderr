@@ -1,0 +1,14 @@
+[31m[1mCMake Error[0m at /home/xy/final_test_ws/src/hero_chassis_controller/rm_template/CMakeLists.txt:75 (add_executable):
+  Cannot find source file:
+
+    src/hero_chassis_controller_node.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+[31m[1mCMake Error[0m at /home/xy/final_test_ws/src/hero_chassis_controller/rm_template/CMakeLists.txt:75 (add_executable):
+  No SOURCES given to target: hero_chassis_controller
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

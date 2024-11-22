@@ -1,0 +1,5 @@
+rm_description_for_task
+/home/xy/final_test_ws/devel/.private/rm_description/cmake.lock /home/xy/final_test_ws/devel/./cmake.lock
+/home/xy/final_test_ws/devel/.private/rm_description/share/rm_description/cmake/rm_descriptionConfig-version.cmake /home/xy/final_test_ws/devel/share/rm_description/cmake/rm_descriptionConfig-version.cmake
+/home/xy/final_test_ws/devel/.private/rm_description/share/rm_description/cmake/rm_descriptionConfig.cmake /home/xy/final_test_ws/devel/share/rm_description/cmake/rm_descriptionConfig.cmake
+/home/xy/final_test_ws/devel/.private/rm_description/lib/pkgconfig/rm_description.pc /home/xy/final_test_ws/devel/lib/pkgconfig/rm_description.pc
