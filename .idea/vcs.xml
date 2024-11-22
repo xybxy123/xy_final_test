@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/hero_chassis_controller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/hero_chassis_controller/rm_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/rm_description_for_task" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/simple_chassis_controller" vcs="Git" />
+  </component>
+</project>
